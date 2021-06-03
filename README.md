@@ -5,4 +5,5 @@
 <li> Estimate the accuracy of decision classifier on breast cancer dataset using 5 fold cross validation. </li>
 <li> Estimate the precision recall accuracy f-measure of the decision classifier on a breast cancer dataset using 10 fold cross validation. </li>
 <li> Develop a machine learning method to classify your incoming mails. </li>
+ <li> Develop a machine learning method to predict stock price based on past price variation. </li>
 </ol>
