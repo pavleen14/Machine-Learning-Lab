@@ -7,4 +7,5 @@
 <li> Develop a machine learning method to classify your incoming mails. </li>
 <li> Develop a machine learning method to predict stock price based on past price variation. </li>
 <li> Develop a machine learning method to predict how people will rate movies, books etc. </li>
+<li> Select two datasets. Each dataset should contain examples from multiple classes. For training purposes assume that the class label of example is unknown. Apply the k-means algorithm and apply it to the selected data. Evaluate the process by measuring the sum of euclidean distance of each example from its class center. Test the performance of the algorithm as a function of the parameter  k. </li>
 </ol>
