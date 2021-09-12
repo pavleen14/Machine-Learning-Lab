@@ -1,4 +1,4 @@
-# Machine Learning Lab Experiments
+# Machine Learning Lab Experiments - Sem 8 
 <ol>
 <li> Make a decision tree classifier on Breast Cancer dataset using Scikit learn in python. </li>
 <li> Study and implement the Naive bayes on a breast cancer dataset using Scikit learn in python. </li>
